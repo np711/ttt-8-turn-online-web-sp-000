@@ -1,1 +1,1 @@
-def in
+def input
